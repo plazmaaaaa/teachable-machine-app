@@ -1,0 +1,18 @@
+{
+  "name": "teachable-machine-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.10.0",
+    "@teachablemachine/image": "^0.8.6",
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
